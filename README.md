@@ -1,3 +1,7 @@
+Disney+ CLONE using React, Firebase, Redux, and Styled Components
+
+![Build Screenshot](Disney-plus.png?raw=true "Build Screenshot")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
